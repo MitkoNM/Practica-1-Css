@@ -2,9 +2,25 @@
 
 .a1{
 	text-align:center;
-	text-align-last: down;
 }
 
 .color1{
 	color:blue;
+}
+
+.html{
+	background-color: #A9CCE3;	
+}
+
+.a2{
+	text-align:center;
+	text-align-last: down;
+}
+	
+.h2:hover{
+	color:blue;
+}
+
+.h2{
+	display:inline;	
 }
