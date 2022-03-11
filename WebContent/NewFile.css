@@ -22,5 +22,20 @@
 }
 
 .h2{
-	display:inline;	
+	display:inline;
+}
+
+p.color2:first-line{
+	color: red;
+}
+
+.texto1{
+	color:blue;
+	background-color: white;	
+}
+
+.imagen1{
+	position:relative;
+	float:right;
+	margin-top:-150px;
 }
